@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stepan</h1>
 <h3 align="center">A backend developer from St. Petersburg</h3>
-<h3 align="center">Technologys</h3>
+<h3 align="center">My Tech Stack</h3>
 <p align="center">
     <a href="https://www.python.org/" target="_blank"><img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px"
