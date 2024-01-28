@@ -53,6 +53,9 @@
     <a href="https://ubuntu.com/" target="_blank"><img
             src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"
             height="40px"> </a>
+    <a href="https://fedoraproject.org/ru/" target="_blank"><img
+            src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg"
+            height="40px"> </a>
     <a href="https://docs.pytest.org/" target="_blank"><img
             src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png"
             width="40px"
